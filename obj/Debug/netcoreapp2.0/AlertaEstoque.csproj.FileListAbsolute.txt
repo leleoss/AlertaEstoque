@@ -1,0 +1,10 @@
+C:\Users\user_acronus\AlertaEstoque\bin\Debug\netcoreapp2.0\AlertaEstoque.deps.json
+C:\Users\user_acronus\AlertaEstoque\bin\Debug\netcoreapp2.0\AlertaEstoque.runtimeconfig.json
+C:\Users\user_acronus\AlertaEstoque\bin\Debug\netcoreapp2.0\AlertaEstoque.runtimeconfig.dev.json
+C:\Users\user_acronus\AlertaEstoque\bin\Debug\netcoreapp2.0\AlertaEstoque.dll
+C:\Users\user_acronus\AlertaEstoque\bin\Debug\netcoreapp2.0\AlertaEstoque.pdb
+C:\Users\user_acronus\AlertaEstoque\obj\Debug\netcoreapp2.0\AlertaEstoque.csproj.CoreCompileInputs.cache
+C:\Users\user_acronus\AlertaEstoque\obj\Debug\netcoreapp2.0\AlertaEstoque.AssemblyInfoInputs.cache
+C:\Users\user_acronus\AlertaEstoque\obj\Debug\netcoreapp2.0\AlertaEstoque.AssemblyInfo.cs
+C:\Users\user_acronus\AlertaEstoque\obj\Debug\netcoreapp2.0\AlertaEstoque.dll
+C:\Users\user_acronus\AlertaEstoque\obj\Debug\netcoreapp2.0\AlertaEstoque.pdb
